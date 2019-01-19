@@ -12,7 +12,7 @@ namespace C0727128
         {
             int i = 5;
             Console.WriteLine(i);
-           
+            Console.WriteLine(i + 2);
             Console.ReadLine();
         }
     }
